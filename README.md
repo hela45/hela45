@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ### Hi there 👋,I am Hela Talbi
 
 ---
@@ -10,8 +8,6 @@ I am also exploring the integration of artificial intelligence into embedded sys
 
 ---
 
-
-
 <!--
 **hela45/hela45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🌱 I’m currently learning  embedded Linux,YOCTO,STM32
@@ -21,6 +17,5 @@ I am also exploring the integration of artificial intelligence into embedded sys
 ## <b> Connect with me:</b>
 <p align="left">
 <a href="https://www.linkedin.com/in/hela-talbi-886373162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hela-talbi/" height="40" width="40" /></a>
-
 </p>
 
